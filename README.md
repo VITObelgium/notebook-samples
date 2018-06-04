@@ -1,7 +1,7 @@
 # PROBA-V MEP notebooks #
 
 These notebooks run in the notebook environment of the PROBA-V MEP:
-[https://proba-v-mep.esa.int/applications/notebooks](Link URL)
+[https://proba-v-mep.esa.int/applications/notebooks](https://proba-v-mep.esa.int/applications/notebooks)
 
 A gallery of these samples, with readonly browsing, is available here: 
 https://proba-v-mep.esa.int/documentation/manuals/notebook-sample-gallery
