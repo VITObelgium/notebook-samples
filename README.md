@@ -14,4 +14,4 @@ The update process is the following:
 To get your local changes back, you can execute `git stash pop`. This will put your local changes back, but it is possible you have some merge conflicts. 
 
 ## Disclaimer ##
-This repository contains notebook samples that can run on Terrascope or PROBA-V MEP. All samples are provided AS-IS, and should not be assumed to be scientifically correct.
+This repository contains notebook samples that can run on Terrascope or PROBA-V MEP. All samples are provided AS-IS, and should not be assumed to be scientifically correct. (test)
