@@ -1,0 +1,3 @@
+[submodule "openeo-samples"]
+	path = openeo-samples
+	url = https://github.com/Open-EO/openeo-community-examples.git
